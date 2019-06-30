@@ -1,0 +1,14 @@
+{
+  "name": "jest-proto-demo",
+  "version": "1.0.0",
+  "description": "Bug / quirk repro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest proto.test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
